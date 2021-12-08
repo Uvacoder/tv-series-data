@@ -8,3 +8,4 @@
 Made with NextJs and ❤ Hosted on Vercel.
 
 🚀 [Live Demo](https://tvserieschart.now.sh/)
+-
